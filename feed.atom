@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>PFE News</title>
+  <subtitle>The latest updates on Platform Fighter Engine!</subtitle>
+  <link rel="self" href="https://platformfighterengine.github.io/feed.atom"/>
+  <updated>2025-10-23T16:14:29Z</updated>
+  <author>
+    <name>Yosi Spring</name>
+    <uri>https://yosispring.github.io</uri>
+  </author>
+  <id>https://platformfighterengine.github.io</id>
+  <icon>/favicon.ico</icon>
+  <rights>©2025 Springroll Games / Yosi</rights>
+
+  <entry>
+    <title>Platform Fighter Engine - Progress 1</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=0ccb4wHFzVQ"/>
+    <id>https://platformfighterengine.github.io/feed/0</id>
+    <updated>2018-09-14T00:00:00Z</updated>
+    <summary>(TEST) Some footage of the Platform Fighter Engine we're making!</summary>
+  </entry>
+
+</feed>
