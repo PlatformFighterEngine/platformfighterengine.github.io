@@ -34,5 +34,166 @@
     <updated>2019-08-21T12:34:08Z</updated>
     <summary>The next version of Platform Fighter Engine is out now! This one is a minor update focused on visual improvements! Download: https://springrollgames.itch.io/platform-fighter-engine BETA VERSION 0.2.1...</summary>
   </entry>
+  <entry>
+    <title>Beta Version 0.3.0</title>
+    <link rel="alternate" href="https://springrollgames.itch.io/platform-fighter-engine/devlog/114916/beta-version-030"/>
+    <id>https://platformfighterengine.github.io/feed/3</id>
+    <updated>2019-12-15T22:45:38Z</updated>
+    <summary>The next version of Platform Fighter Engine is out now! This one is a major update that adds a character select screen, new moves, new scripts, bugfixes, and much more! Download: https://springrollgam...</summary>
+  </entry>
+  <entry>
+    <title>Beta Version 0.4.0</title>
+    <link rel="alternate" href="https://springrollgames.itch.io/platform-fighter-engine/devlog/124115/beta-version-040"/>
+    <id>https://platformfighterengine.github.io/feed/4</id>
+    <updated>2020-02-10T21:53:48Z</updated>
+    <summary>Animation Update - You can now define animation speed, scale, angle, etc. per state for each character - If you give a state an array of sprites, the game will randomly choose on the sprites to use wh...</summary>
+  </entry>
+  <entry>
+    <title>Beta Version 0.5.0</title>
+    <link rel="alternate" href="https://springrollgames.itch.io/platform-fighter-engine/devlog/144107/beta-version-050"/>
+    <id>https://platformfighterengine.github.io/feed/5</id>
+    <updated>2020-05-07T02:44:04Z</updated>
+    <summary>Collision Update - Part 1 - Added slopes! - Created an instance bitflag system to replace inheritance based collisions - Added a function "collision" that allows you to check for collisions in a varie...</summary>
+  </entry>
+  <entry>
+    <title>Beta Version 0.6.0</title>
+    <link rel="alternate" href="https://springrollgames.itch.io/platform-fighter-engine/devlog/176036/patch-notes-060"/>
+    <id>https://platformfighterengine.github.io/feed/6</id>
+    <updated>2020-09-04T03:45:11Z</updated>
+    <summary>BETA VERSION 0.6.0 - Menu Update - There's a brand new character select screen! - Added a stage select screen! - Added a UI framework that can be used to make more menu screens Collision Update - Part...</summary>
+  </entry>
+  <entry>
+    <title>Beta Version 0.6.1</title>
+    <link rel="alternate" href="https://springrollgames.itch.io/platform-fighter-engine/devlog/176391/patch-notes-061"/>
+    <id>https://platformfighterengine.github.io/feed/7</id>
+    <updated>2020-09-05T15:50:00Z</updated>
+    <summary>BETA VERSION 0.6.1 - Hotfixes - Fixed an issue where Smash Stick would activate even if the player did not flick the stick - Players can now perform the second part of Link's Fsmash with the attack bu...</summary>
+  </entry>
+  <entry>
+    <title>Beta Version 0.7.0</title>
+    <link rel="alternate" href="https://springrollgames.itch.io/platform-fighter-engine/devlog/227489/patch-notes-070"/>
+    <id>https://platformfighterengine.github.io/feed/8</id>
+    <updated>2021-03-02T03:47:55Z</updated>
+    <summary>BETA VERSION 0.7.0 - Project Updated to GMS2.3 - The project has been fully reorganized to use the new features of the GMS2.3 asset browser - All global variables have been replaced with either static...</summary>
+  </entry>
+  <entry>
+    <title>Beta Version 0.7.1</title>
+    <link rel="alternate" href="https://springrollgames.itch.io/platform-fighter-engine/devlog/229043/patch-notes-071"/>
+    <id>https://platformfighterengine.github.io/feed/9</id>
+    <updated>2021-03-07T00:11:14Z</updated>
+    <summary>Hotfixes: - Fixed Rivals parrying - Parry stun is applied properly to players landing with aerial - Parrying aerial attack now puts opponents into the helpless state, and gives them extra landing lag...</summary>
+  </entry>
+  <entry>
+    <title>Patch Notes 1.0.0</title>
+    <link rel="alternate" href="https://springrollgames.itch.io/platform-fighter-engine/devlog/292314/patch-notes-100"/>
+    <id>https://platformfighterengine.github.io/feed/10</id>
+    <updated>2021-09-08T05:05:05Z</updated>
+    <summary>Platform Fighter Engine Full Release 1.0.0 - Patch Notes Rollback Netcode! - Added two online modes: Quickplay (random matchmaking) and Private Lobbies - Normal gameplay, CPUs, Replays, and Online mat...</summary>
+  </entry>
+  <entry>
+    <title>Patch Notes 1.1.0</title>
+    <link rel="alternate" href="https://springrollgames.itch.io/platform-fighter-engine/devlog/317950/patch-notes-110"/>
+    <id>https://platformfighterengine.github.io/feed/11</id>
+    <updated>2021-11-25T02:30:31Z</updated>
+    <summary>Platform Fighter Engine Full Release 1.1.0 - Patch Notes Netcode - Added the ability to spectate private lobby matches - You can now have up to 8 member in an online lobby, with up to 4 players and th...</summary>
+  </entry>
+  <entry>
+    <title>Patch Notes 1.2.0</title>
+    <link rel="alternate" href="https://springrollgames.itch.io/platform-fighter-engine/devlog/351424/patch-notes-120"/>
+    <id>https://platformfighterengine.github.io/feed/12</id>
+    <updated>2022-02-25T23:20:26Z</updated>
+    <summary>Platform Fighter Engine Full Release 1.2.0 - Patch Notes Items - Added basic support for items, with a few example items: - Explosive Box: A box that acts as a platform, and explodes on hit - Flip Fie...</summary>
+  </entry>
+  <entry>
+    <title>Patch Notes 1.2.1</title>
+    <link rel="alternate" href="https://springrollgames.itch.io/platform-fighter-engine/devlog/351424/patch-notes-121"/>
+    <id>https://platformfighterengine.github.io/feed/13</id>
+    <updated>2022-03-24T15:57:37Z</updated>
+    <summary>Platform Fighter Engine Full Release 1.2.1 - Patch Notes Attacks - Added the "simple attacks" system, which allows you to define attacks dynamically through data instead of through scripts - Simple at...</summary>
+  </entry>
+  <entry>
+    <title>Patch Notes 1.3.0</title>
+    <link rel="alternate" href="https://springrollgames.itch.io/platform-fighter-engine/devlog/401037/patch-notes-130"/>
+    <id>https://platformfighterengine.github.io/feed/14</id>
+    <updated>2022-07-06T02:06:05Z</updated>
+    <summary>Final Smashes - Added a Final Smash for each of the 5 premade characters. - Added a Smash Ball item. - Added a match setting for the Final Smash meter. - You can now turn off automatic camera movement...</summary>
+  </entry>
+  <entry>
+    <title>Patch Notes 1.3.1</title>
+    <link rel="alternate" href="https://springrollgames.itch.io/platform-fighter-engine/devlog/402177/patch-notes-131"/>
+    <id>https://platformfighterengine.github.io/feed/15</id>
+    <updated>2022-07-09T02:49:15Z</updated>
+    <summary>Attacks - General balance changes. Fixes - Fixed an issue where players wouldn't reset their animation when being knocked out, which could crash the game. - Fixed camera-related issues in "final_smash...</summary>
+  </entry>
+  <entry>
+    <title>Patch Notes 1.3.2</title>
+    <link rel="alternate" href="https://springrollgames.itch.io/platform-fighter-engine/devlog/423222/patch-notes-132"/>
+    <id>https://platformfighterengine.github.io/feed/16</id>
+    <updated>2022-09-02T03:33:04Z</updated>
+    <summary>Attacks - General balance changes. - Added Cross Slash (non-limit version). - Added Climhazzard. - Added Witch Time. - Added a passive script to allow using Shoryuken through the motion input. Functio...</summary>
+  </entry>
+  <entry>
+    <title>Patch Notes 1.3.3</title>
+    <link rel="alternate" href="https://springrollgames.itch.io/platform-fighter-engine/devlog/427840/patch-notes-133"/>
+    <id>https://platformfighterengine.github.io/feed/17</id>
+    <updated>2022-09-14T16:16:36Z</updated>
+    <summary>PFE: Core - Introducing a new version, "Platform Fighter Engine: Core" - This is a FREE version of PFE available for download on itch.io, replacing the Beta 0.7.1 version. - It has almost all of the f...</summary>
+  </entry>
+  <entry>
+    <title>Patch Notes 1.3.4</title>
+    <link rel="alternate" href="https://springrollgames.itch.io/platform-fighter-engine/devlog/467890/patch-notes-134"/>
+    <id>https://platformfighterengine.github.io/feed/18</id>
+    <updated>2022-12-24T16:01:17Z</updated>
+    <summary>Attacks - General balance changes. - "fspec_eiha" now deals damage over time. Stages - A new template stage has been added: "Smiley Floats"! Functionality - Added grab clank struggles when players gra...</summary>
+  </entry>
+  <entry>
+    <title>Patch Notes 1.4.0</title>
+    <link rel="alternate" href="https://springrollgames.itch.io/platform-fighter-engine/devlog/505722/patch-notes-140"/>
+    <id>https://platformfighterengine.github.io/feed/19</id>
+    <updated>2023-03-21T18:17:54Z</updated>
+    <summary>Stages - Moved stage-specific properties out of "obj_stage_manager", into individual "stage init" scripts. - Added the "stage_data" script which stores all data for stages, similarly to "character_dat...</summary>
+  </entry>
+  <entry>
+    <title>Patch Notes 1.4.1</title>
+    <link rel="alternate" href="https://springrollgames.itch.io/platform-fighter-engine/devlog/505722/patch-notes-141"/>
+    <id>https://platformfighterengine.github.io/feed/20</id>
+    <updated>2023-07-31T06:08:08Z</updated>
+    <summary>Online Teams - You can now play with Teams enabled in online games! - The lobby host determines the teams of all the other players. - Team Attack can be toggled from the private lobby menu. Opera GX M...</summary>
+  </entry>
+  <entry>
+    <title>Patch Notes 1.4.2</title>
+    <link rel="alternate" href="https://springrollgames.itch.io/platform-fighter-engine/devlog/589195/patch-notes-142"/>
+    <id>https://platformfighterengine.github.io/feed/21</id>
+    <updated>2023-09-15T04:02:32Z</updated>
+    <summary>Attacks - Added Toon Link's Down Special. - This move spawns a bomb item that the user holds. - The bomb explodes after a certain amount of time, or if it is thrown. - If the bomb hits an opponent, th...</summary>
+  </entry>
+  <entry>
+    <title>Patch Notes 1.4.3</title>
+    <link rel="alternate" href="https://springrollgames.itch.io/platform-fighter-engine/devlog/739984/patch-notes-143"/>
+    <id>https://platformfighterengine.github.io/feed/22</id>
+    <updated>2024-05-29T04:02:32Z</updated>
+    <summary>Attacks - General balance adjustments. - "sheik_fspec_chain" is now easier to modify in the code. - `shulk_nspec_monado_arts" now increases your maximum shield HP while Shield Art is active. - Added m...</summary>
+  </entry>
+  <entry>
+    <title>Patch Notes 1.4.4</title>
+    <link rel="alternate" href="https://springrollgames.itch.io/platform-fighter-engine/devlog/802317/patch-notes-144"/>
+    <id>https://platformfighterengine.github.io/feed/23</id>
+    <updated>2024-09-20T12:47:52Z</updated>
+    <summary>GGMR Update - PFE now uses the most recent version of GGMR. - The saving and loading scripts are more organized now. Attacks - General balance adjustments. - Added a new attack "basic_fspec_chokeslam"...</summary>
+  </entry>
+  <entry>
+    <title>Patch Notes 1.4.5</title>
+    <link rel="alternate" href="https://springrollgames.itch.io/platform-fighter-engine/devlog/960015/patch-notes-145"/>
+    <id>https://platformfighterengine.github.io/feed/24</id>
+    <updated>2025-06-04T21:04:40Z</updated>
+    <summary>Fixes - Fixed "GGMR_PLAYERS_MAX" incorrectly being set to 2 instead of 4. - The "Normal" and "Idle" CPU types no longer always use a special move after respawning. - Double jumping no longer clamps yo...</summary>
+  </entry>
+  <entry>
+    <title>Patch Notes 1.4.6</title>
+    <link rel="alternate" href="https://springrollgames.itch.io/platform-fighter-engine/devlog/1028271/patch-notes-146"/>
+    <id>https://platformfighterengine.github.io/feed/25</id>
+    <updated>2025-09-10T04:42:36Z</updated>
+    <summary>Fixes - Fixed the pseudorandom number functions returning very skewed results for certain ranges. - "Pressed" inputs are no longer counted multiple times when the game is lagging during online matches...</summary>
+  </entry>
 
 </feed>
