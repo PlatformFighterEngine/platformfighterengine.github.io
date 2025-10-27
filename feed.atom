@@ -14,11 +14,25 @@
   <rights>©2025 Springroll Games / Yosi</rights>
 
   <entry>
-    <title>Platform Fighter Engine - Progress 1</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=0ccb4wHFzVQ"/>
+    <title>Beta Version 0.1.0</title>
+    <link rel="alternate" href="https://springrollgames.itch.io/platform-fighter-engine/devlog/89824/beta-version-010"/>
     <id>https://platformfighterengine.github.io/feed/0</id>
-    <updated>2018-09-14T00:00:00Z</updated>
-    <summary>(TEST) Some footage of the Platform Fighter Engine we're making!</summary>
+    <updated>2019-07-13T13:17:16Z</updated>
+    <summary>The next version of Platform Fighter Engine is out now! BETA VERSION 0.1.0 - Attacks - General attack balance - Updated a few attack animations - Added Toon Link Nair - Added Mario Uair - Added a stan...</summary>
+  </entry>
+  <entry>
+    <title>Beta Version 0.2.0</title>
+    <link rel="alternate" href="https://springrollgames.itch.io/platform-fighter-engine/devlog/94061/beta-version-020"/>
+    <id>https://platformfighterengine.github.io/feed/1</id>
+    <updated>2019-08-09T01:51:52Z</updated>
+    <summary>BETA VERSION 0.2.0 - Replays - You can now save replays of matches - You can watch replays by loading the file from App Data/Smash Engine/Beta 0.2.0 Attacks - General balance and animation updates - A...</summary>
+  </entry>
+  <entry>
+    <title>Beta Version 0.2.1</title>
+    <link rel="alternate" href="https://springrollgames.itch.io/platform-fighter-engine/devlog/96106/beta-version-021"/>
+    <id>https://platformfighterengine.github.io/feed/2</id>
+    <updated>2019-08-21T12:34:08Z</updated>
+    <summary>The next version of Platform Fighter Engine is out now! This one is a minor update focused on visual improvements! Download: https://springrollgames.itch.io/platform-fighter-engine BETA VERSION 0.2.1...</summary>
   </entry>
 
 </feed>
