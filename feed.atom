@@ -195,5 +195,12 @@
     <updated>2025-09-10T04:42:36Z</updated>
     <summary>Fixes - Fixed the pseudorandom number functions returning very skewed results for certain ranges. - "Pressed" inputs are no longer counted multiple times when the game is lagging during online matches...</summary>
   </entry>
+  <entry>
+    <title>Patch Notes 1.4.7</title>
+    <link rel="alternate" href="https://springrollgames.itch.io/platform-fighter-engine/devlog/1490850/patch-notes-147"/>
+    <id>https://platformfighterengine.github.io/feed/26</id>
+    <updated>2026-04-16T04:47:42Z</updated>
+    <summary>Fixes - Fixed some of the premade passive scripts not removing their effect when players got KO'd. - Stamina mode values are now saved as "f64" instead of "s32" to prevent possible math errors. - "bas...</summary>
+  </entry>
 
 </feed>
