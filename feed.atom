@@ -202,5 +202,12 @@
     <updated>2026-04-16T04:47:42Z</updated>
     <summary>Fixes - Fixed some of the premade passive scripts not removing their effect when players got KO'd. - Stamina mode values are now saved as "f64" instead of "s32" to prevent possible math errors. - "bas...</summary>
   </entry>
+  <entry>
+    <title>Patch Notes 1.4.7 LTS Update</title>
+    <link rel="alternate" href="https://springrollgames.itch.io/platform-fighter-engine/devlog/1608924/patch-notes-147-lts-update"/>
+    <id>https://platformfighterengine.github.io/feed/27</id>
+    <updated>2026-07-30T04:57:36Z</updated>
+    <summary>LTS Changes - "game_state_load_objects_init" now uses "handle_parse" instead of "real". - "stage_data_get" now uses "is_handle" instead of "is_real". - Deleted the script "array_contains" as it is now...</summary>
+  </entry>
 
 </feed>
